@@ -1,7 +1,7 @@
 Alternative Input Examples
 =========
 
-Two small web applications that demonstrate alternative interaction concepts. Read the accompanying blog post for more contenxt here: 
+Two small web applications that demonstrate alternative interaction concepts. Read the accompanying blog post for more context. http://blogs.truthlabs.com/2014/05/12/i-miss-real-affordances-2/
 
 Both experiments require a [makey makey](http://www.makeymakey.com/) (or Arduino), a hardware button and switch. Alternatively, you can use your keyboard by pressing the Space bar and Down arrow keys. 
 
