@@ -7,7 +7,7 @@ Both experiments require a [makey makey](http://www.makeymakey.com/) (or Arduino
 
 * **Particles** - uses processing and [makey makey](http://www.makeymakey.com/) to demonstrate how to use a swtich and button to control a partical visualizaiton. 
 
-* **Photobooth** - uses GetUserMedia() to access the web cam, Three.JS for the pixel shaders, TweenLite for animations, and makey makey to create a unique photobooth interaction. (Chrome only)
+* **Photobooth** - uses [GetUserMedia()](http://www.html5rocks.com/en/tutorials/getusermedia/intro/) to access the web cam, [Three.JS](http://threejs.org/) for the pixel shaders, [TweenLite](http://www.greensock.com/tweenlite/) for animations, and makey makey to create a unique photobooth interaction. (Chrome only)
 
 
 
